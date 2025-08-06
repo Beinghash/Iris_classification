@@ -1,6 +1,6 @@
 # 🌸 Iris Flower Classification 🌸
 
-<img src="iris.jpg" align="left" width="600"><br>
+<img src="iris.jpg" width="600"><br>
 
 
 
